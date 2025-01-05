@@ -7,7 +7,6 @@ __pycache__/
 .DS_Store
 
 # Other
-.vscode
 *.tsv
 *.pt
 gpt*.txt
@@ -25,3 +24,5 @@ secrets.toml
 */assertion.log
 *results/
 .venv/
+config.bat
+node_modules
